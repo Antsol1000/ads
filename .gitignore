@@ -1,0 +1,4 @@
+*.o
+*.exe
+ads_3/task_1/graph_gen/*.txt
+ads_3/task_2/dag_gen/*.txt
